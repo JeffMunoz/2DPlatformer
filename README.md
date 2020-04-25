@@ -9,4 +9,4 @@ Jeffry Munoz
 ## License
 This project is licensed under the MIT License.
 ## Acknowledgments
-Useful information about game development in the Unity 2D manual ![found here](https://docs.unity3d.com/Manual/Unity2D.html).
+Useful information about game development in the Unity 2D manual [found here](https://docs.unity3d.com/Manual/Unity2D.html).
