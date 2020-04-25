@@ -1,10 +1,10 @@
 # 2DPlatformer
 This Project was created using the Unity Engine in the spring of 2020.
 ## Demonstration
- - Click Here for a video demo](https://github.com/JeffMunoz/2DPlatformer/blob/master/App%20demo.mp4?raw=true) 
+ - [Click Here for a video demo](https://github.com/JeffMunoz/2DPlatformer/blob/master/App%20demo.mp4?raw=true) 
  - The C# scripts can be found under the Assets Folder.
  
- ##Getting Started
+ ## Getting Started
  - Download the phone.APK file
  - load the file onto any Android device 
  - Once it is loaded start playing!
